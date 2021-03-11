@@ -1,4 +1,3 @@
 FROM python
-COPY app.py .
+COPY asdfgdfgsdfgsdfy .
 CMD python app.py
-CMD echo hello world
