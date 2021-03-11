@@ -1,3 +1,3 @@
 FROM python
-COPY app.py .
+COPY sdgsdfgsdf .
 CMD python app.py
