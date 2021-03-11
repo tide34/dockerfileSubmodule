@@ -1,3 +1,3 @@
 FROM python
-COPY ../app.py .
-CMD python ./app.py
+COPY app.py .
+CMD python app.py
